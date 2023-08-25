@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Polish software developer, photography and graphics design enthusiast.  
+I enjoy my time creating automation tools, designing user interfaces and building  
+connections in the IT industry.
 
 ### My Stack
 
