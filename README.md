@@ -1,13 +1,28 @@
 ### Hi there 👋
 
 ### My Stack
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/TypeScript.png"></a>
-<a href="https://nodejs.org/" title="NodeJS"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/NodeJS.png"></a>
-<a href="https://svelte.dev/" title="Svelte"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/Svelte.png"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/PostgreSQL.png"></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/VS Code.png"></a>
-<a href="https://figma.com/" title="Figma"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/Figma.png"></a>
-<a href="https://procreate.com/" title="Procreate"><img  width="45" height="45" style="margin-right: 7px; float: left;" src="./images/stack/Procreate.png"></a>
+
+<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
+    <img width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/TypeScript.png">
+</a>
+<a href="https://nodejs.org/" title="NodeJS" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/NodeJS.png">
+</a>
+<a href="https://svelte.dev/" title="Svelte" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/Svelte.png">
+</a>
+<a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/PostgreSQL.png">
+</a>
+<a href="https://code.visualstudio.com/" title="VS Code" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/VS Code.png">
+</a>
+<a href="https://figma.com/" title="Figma" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/Figma.png">
+</a>
+<a href="https://procreate.com/" title="Procreate" target="_blank">
+    <img  width="38" height="38" style="margin-right: 7px; float: left;" src="./images/stack/Procreate.png">
+</a>
 
 <!--
 **4S1ght/4S1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
